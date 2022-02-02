@@ -1,4 +1,8 @@
 ####
+### Vprofile-project
+
+A demo application integrated, tested and analysed with the tools such as Jenkins, Nexus, SonarQube that send every notification to desired slack regarding every build of the pipeline. 
+
 ### Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
@@ -66,4 +70,7 @@ Then look for the file :
 ![Screenshot (345)](https://user-images.githubusercontent.com/68735863/152110138-246f6050-02f3-44e8-8662-95c09025c172.png)
 
 ![Screenshot (346)](https://user-images.githubusercontent.com/68735863/152110158-74ae59c6-5cc1-49f4-84aa-b9c8d8c3fd48.png)
+
+![Screenshot (347)](https://user-images.githubusercontent.com/68735863/152113592-a7e0a440-d4e6-4cd7-831f-58251b17af2a.png)
+
 
