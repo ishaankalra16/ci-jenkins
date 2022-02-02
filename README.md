@@ -57,7 +57,7 @@ Then look for the file :
 
 ### Screenshots
 
-![Screenshot (342)](https://user-images.githubusercontent.com/68735863/152110082-c8ddbf3b-6191-4319-a623-03efba3b4372.png)
+![Screenshot (342)](https://user-images.githubusercontent.com/68735863/152112558-f3ad4ea9-97e8-4869-a2b8-1590832d26f7.png)
 
 ![Screenshot (343)](https://user-images.githubusercontent.com/68735863/152110101-b51152c1-dcc9-4427-8187-e227a3f38054.png)
 
