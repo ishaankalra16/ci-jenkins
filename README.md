@@ -18,7 +18,7 @@ A demo application integrated, tested and analysed with the tools such as Jenkin
 
 ### Architecture
 
-<img width="960" alt="Screenshot (338)" src="https://user-images.githubusercontent.com/68735863/152109592-a3629c85-2562-4ca5-835e-fd6b39331b5d.png">
+<img width="685" alt="152109592-a3629c85-2562-4ca5-835e-fd6b39331b5d" src="https://user-images.githubusercontent.com/68735863/152641500-c9dceabf-9412-4da1-8c08-62d3b86196e7.png">
 
 ### Flow of Execution
 
